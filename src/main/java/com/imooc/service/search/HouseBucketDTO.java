@@ -1,8 +1,6 @@
 package com.imooc.service.search;
 
-/**
- * Created by 瓦力.
- */
+
 public class HouseBucketDTO {
     /**
      * 聚合bucket的key

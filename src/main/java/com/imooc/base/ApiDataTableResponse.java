@@ -2,7 +2,6 @@ package com.imooc.base;
 
 /**
  * Datatables响应结构
- * Created by 瓦力.
  */
 public class ApiDataTableResponse extends ApiResponse {
     private int draw;

@@ -2,9 +2,6 @@ package com.imooc.web.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-/**
- * Created by 瓦力.
- */
 public class HousePictureDTO {
     private Long id;
 

@@ -13,9 +13,7 @@ import com.imooc.base.LoginUserUtil;
 import com.imooc.service.ISmsService;
 import com.imooc.service.ServiceResult;
 
-/**
- * Created by 瓦力.
- */
+
 @Controller
 public class HomeController {
     @Autowired

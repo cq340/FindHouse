@@ -2,9 +2,7 @@ package com.imooc.web.dto;
 
 import java.util.List;
 
-/**
- * Created by 瓦力.
- */
+
 public class SubwayDTO {
     private Long id;
     private String name;

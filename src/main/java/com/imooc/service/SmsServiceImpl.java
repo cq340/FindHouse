@@ -18,9 +18,7 @@ import com.aliyuncs.http.MethodType;
 import com.aliyuncs.profile.DefaultProfile;
 import com.aliyuncs.profile.IClientProfile;
 
-/**
- * Created by 瓦力.
- */
+
 @Service
 public class SmsServiceImpl implements ISmsService, InitializingBean {
     @Value("${aliyun.sms.accessKey}")

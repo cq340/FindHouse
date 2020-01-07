@@ -15,9 +15,7 @@ import org.thymeleaf.spring4.SpringTemplateEngine;
 import org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver;
 import org.thymeleaf.spring4.view.ThymeleafViewResolver;
 
-/**
- * Created by 瓦力.
- */
+
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter implements ApplicationContextAware {
     @Value("${spring.thymeleaf.cache}")

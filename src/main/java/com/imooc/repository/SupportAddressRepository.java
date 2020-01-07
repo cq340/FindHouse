@@ -6,9 +6,6 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.imooc.entity.SupportAddress;
 
-/**
- * Created by 瓦力.
- */
 public interface SupportAddressRepository extends CrudRepository<SupportAddress, Long>{
     /**
      * 获取所有对应行政级别的信息

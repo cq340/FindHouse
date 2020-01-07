@@ -18,9 +18,7 @@ import com.imooc.entity.User;
 import com.imooc.service.ISmsService;
 import com.imooc.service.IUserService;
 
-/**
- * Created by 瓦力.
- */
+
 public class AuthFilter extends UsernamePasswordAuthenticationFilter {
 
     @Autowired

@@ -18,9 +18,7 @@ import org.springframework.stereotype.Component;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-/**
- * Created by 瓦力.
- */
+
 @Component
 public class ESMonitor {
     private static final String HEALTH_CHECK_API = "http://127.0.0.1:8888/_cluster/health";

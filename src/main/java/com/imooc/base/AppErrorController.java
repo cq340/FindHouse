@@ -16,7 +16,6 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 /**
  * web错误 全局配置
- * Created by 瓦力.
  */
 @Controller
 public class AppErrorController implements ErrorController {

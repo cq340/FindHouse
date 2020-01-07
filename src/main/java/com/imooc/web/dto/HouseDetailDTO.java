@@ -1,8 +1,6 @@
 package com.imooc.web.dto;
 
-/**
- * Created by 瓦力.
- */
+
 public class HouseDetailDTO {
     private String description;
 

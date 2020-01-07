@@ -18,7 +18,6 @@ import com.imooc.web.form.RentSearch;
 
 /**
  * 房屋管理服务接口
- * Created by 瓦力.
  */
 public interface IHouseService {
     /**

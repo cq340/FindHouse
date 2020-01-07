@@ -9,9 +9,7 @@ import org.springframework.data.repository.query.Param;
 
 import com.imooc.entity.HouseSubscribe;
 
-/**
- * Created by 瓦力.
- */
+
 public interface HouseSubscribeRespository extends PagingAndSortingRepository<HouseSubscribe, Long>{
 
     HouseSubscribe findByHouseIdAndUserId(Long houseId, Long loginUserId);

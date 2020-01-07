@@ -1,8 +1,6 @@
 package com.imooc.service.search;
 
-/**
- * Created by 瓦力.
- */
+
 public class HouseSuggest {
     private String input;
     private int weight = 10; // 默认权重

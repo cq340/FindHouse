@@ -59,9 +59,7 @@ import com.imooc.web.form.RentSearch;
 import com.qiniu.common.QiniuException;
 import com.qiniu.http.Response;
 
-/**
- * Created by 瓦力.
- */
+
 @Service
 public class HouseServiceImpl implements IHouseService {
 

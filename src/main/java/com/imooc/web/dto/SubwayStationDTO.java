@@ -1,8 +1,6 @@
 package com.imooc.web.dto;
 
-/**
- * Created by 瓦力.
- */
+
 public class SubwayStationDTO {
     private Long id;
     private Long subwayId;

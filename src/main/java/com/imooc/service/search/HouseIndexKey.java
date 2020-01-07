@@ -2,7 +2,6 @@ package com.imooc.service.search;
 
 /**
  * 索引关键词统一定义
- * Created by 瓦力.
  */
 public class HouseIndexKey {
     public static final String HOUSE_ID = "houseId";

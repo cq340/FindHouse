@@ -2,7 +2,6 @@ package com.imooc.base;
 
 /**
  * 房屋操作状态常量定义
- * Created by 瓦力.
  */
 public class HouseOperation {
     public static final int PASS = 1; // 通过审核
