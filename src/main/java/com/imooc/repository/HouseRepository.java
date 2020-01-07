@@ -9,9 +9,7 @@ import org.springframework.data.repository.query.Param;
 
 import com.imooc.entity.House;
 
-/**
- * Created by 瓦力.
- */
+
 public interface HouseRepository extends PagingAndSortingRepository<House, Long>, JpaSpecificationExecutor<House> {
     @Modifying
     @Query("update House as house set house.cover = :cover where house.id = :id")

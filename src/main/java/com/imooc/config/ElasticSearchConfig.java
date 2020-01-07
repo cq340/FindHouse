@@ -11,9 +11,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * Created by 瓦力.
- */
+
 @Configuration
 public class ElasticSearchConfig {
     @Value("${elasticsearch.host}")

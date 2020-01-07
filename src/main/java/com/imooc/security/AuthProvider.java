@@ -14,7 +14,6 @@ import com.imooc.service.IUserService;
 
 /**
  * 自定义认证实现
- * Created by 瓦力.
  */
 public class AuthProvider implements AuthenticationProvider {
     @Autowired

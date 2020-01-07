@@ -15,9 +15,7 @@ import com.imooc.security.AuthProvider;
 import com.imooc.security.LoginAuthFailHandler;
 import com.imooc.security.LoginUrlEntryPoint;
 
-/**
- * Created by 瓦力.
- */
+
 @EnableWebSecurity
 @EnableGlobalMethodSecurity
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {

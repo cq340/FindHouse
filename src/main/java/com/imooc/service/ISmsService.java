@@ -2,7 +2,6 @@ package com.imooc.service;
 
 /**
  * 验证码服务
- * Created by 瓦力.
  */
 public interface ISmsService {
     /**

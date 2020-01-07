@@ -9,7 +9,6 @@ import com.imooc.web.form.RentSearch;
 
 /**
  * 检索接口
- * Created by 瓦力.
  */
 public interface ISearchService {
     /**

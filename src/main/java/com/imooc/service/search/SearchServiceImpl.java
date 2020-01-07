@@ -62,9 +62,7 @@ import com.imooc.service.house.IAddressService;
 import com.imooc.web.form.MapSearch;
 import com.imooc.web.form.RentSearch;
 
-/**
- * Created by 瓦力.
- */
+
 @Service
 public class SearchServiceImpl implements ISearchService {
     private static final Logger logger = LoggerFactory.getLogger(ISearchService.class);

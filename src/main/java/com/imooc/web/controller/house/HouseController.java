@@ -35,9 +35,7 @@ import com.imooc.web.dto.UserDTO;
 import com.imooc.web.form.MapSearch;
 import com.imooc.web.form.RentSearch;
 
-/**
- * Created by 瓦力.
- */
+
 @Controller
 public class HouseController {
 

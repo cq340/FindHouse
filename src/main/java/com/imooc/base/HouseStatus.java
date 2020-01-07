@@ -2,7 +2,6 @@ package com.imooc.base;
 
 /**
  * 房源状态
- * Created by 瓦力.
  */
 public enum HouseStatus {
     NOT_AUDITED(0), // 未审核

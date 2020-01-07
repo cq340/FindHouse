@@ -52,9 +52,7 @@ import com.imooc.web.form.HouseForm;
 import com.qiniu.common.QiniuException;
 import com.qiniu.http.Response;
 
-/**
- * Created by 瓦力.
- */
+
 @Controller
 public class AdminController {
     @Autowired

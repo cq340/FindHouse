@@ -1,8 +1,6 @@
 package com.imooc.web.dto;
 
-/**
- * Created by 瓦力.
- */
+
 public final class QiNiuPutRet {
     public String key;
     public String hash;

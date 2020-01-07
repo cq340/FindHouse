@@ -8,9 +8,7 @@ import org.springframework.security.access.method.P;
 
 import com.imooc.entity.User;
 
-/**
- * Created by 瓦力.
- */
+
 public interface UserRepository extends CrudRepository<User, Long> {
 
     User findByName(String userName);
